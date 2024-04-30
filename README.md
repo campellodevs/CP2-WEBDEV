@@ -4,6 +4,7 @@ RM 554421 - Gabriel de Mello
 RM 555170 - Lucas Serrano
 RM 556900 - Enzo Almeida
 RM 557290 - Guilherme Moreira
+RM 557454 - Pedro Nobre 
 O QUE NOSSO PROGRAMA FAZ?
 Este programa maravilhoso permite que você insira a quantidade de convidados
 e a quantidade de dose por pessoa (em ml) 
